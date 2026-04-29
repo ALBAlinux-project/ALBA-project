@@ -15,7 +15,7 @@ ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxデ
 - Based on LinuxMint / Linux mintベース
 - Linux-Liquorix (ZEN) kernel / Linux-Liquorix (ZEN) カーネル搭載
 - Cinnamon desktop environment / Cinnamonデスクトップ環境
-- Japanese language support out of the box（I was unable to verify that mozc is working. I'm sorry.） / 日本語に最初から対応　（mozcの動作は確認できませんでした　すみません。）
+- Japanese language support out of the box / 日本語に最初から対応
 
 ## System Requirements / 動作環境
 
