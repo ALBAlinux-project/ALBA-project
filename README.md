@@ -3,6 +3,11 @@ ALBA Linux Project - Ubuntu 24.04 based distribution
 
 developed by a Japanese student.
 
+## Download / ダウンロード
+
+ALBA Linux 1.0 SOL ISO:
+https://drive.google.com/file/d/1bROmRO1ChKHsyDMOCxm9qPrr3c7lK2Ri/view?usp=drive_link
+
 ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxディストリビューションです。
 
 ## Features / 特徴
