@@ -13,7 +13,6 @@ ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxデ
 ## Features / 特徴
 
 - Based on LinuxMint / Linux mintベース
-- Linux-Liquorix (ZEN) kernel / Linux-Liquorix (ZEN) カーネル搭載
 - Cinnamon desktop environment / Cinnamonデスクトップ環境
 - Japanese language support out of the box / 日本語に最初から対応
 
@@ -43,7 +42,6 @@ ALBA 1.0 sol is currently available. / 現在ALBA1.0 solが公開中です
 
 We plan to release the ALBA desktop environment at a later date.　/　後にALBA desktop enveriomentをリリースする予定です
 
-##Voiceover for explanatory video VOICEVOX　zundamon /説明ビデオ　使用音声 VOICEVOX　ずんだもん
 
 ##　credit　/ クレジット
 企画：ALBAproject
