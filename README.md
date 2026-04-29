@@ -42,4 +42,11 @@ GNU General Public License v3.0
 ALBA 1.0 sol is currently available. / 現在ALBA1.0 solが公開中です
 
 We plan to release the ALBA desktop environment at a later date.　/　後にALBA desktop enveriomentをリリースする予定です
+
+##Voiceover for explanatory video VOICEVOX　zundamon /説明ビデオ　使用音声 VOICEVOX　ずんだもん
+
+##　credit　/ クレジット
+企画：ALBAproject
+製作：同上
+使用音声合成ソフト：VOICEVOX　https://voicevox.hiroshiba.jp/
 2026 ALBA Linux Project
