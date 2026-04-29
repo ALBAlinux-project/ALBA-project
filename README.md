@@ -47,4 +47,4 @@ We plan to release the ALBA desktop environment at a later date.　/　後にALB
 企画：ALBAproject
 製作：同上
 使用音声合成ソフト：VOICEVOX　https://voicevox.hiroshiba.jp/
-2026 ALBA Linux Project
+2026 ALBA Linux Pr
