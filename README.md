@@ -5,8 +5,7 @@ developed by a Japanese student.
 
 ## Download / ダウンロード
 
-ALBA Linux 1.0 SOL ISO:　https://drive.google.com/file/d/1dFDCPQDMFaIwWuLigrbpWboQvdnUrYo2/view?usp=drive_link
-現在ブートスクリーンがベースに置き換わっています　修正中です。　/　The boot screen is currently being replaced by a base screen this is being fixed.
+ALBA Linux 1.0 SOL ISO:　https://drive.google.com/file/d/1r2AzmZHMyDsUGwrdi0aKaTJZghOpIM2E/view?usp=drive_link
 
 
 ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxディストリビューションです。
