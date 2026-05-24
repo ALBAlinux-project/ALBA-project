@@ -5,7 +5,7 @@ developed by a Japanese student.
 
 ## Download / ダウンロード
 
-ALBA Linux 1.0 SOL ISO:　[https://archive.org/details/albaproject-VirtualBox_amd64_2026-05-05_1750]
+ALBA Linux 1.0 SOL ISO:　[https://archive.org/details/alba-project-1-re]
 
 
 ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxディストリビューションです。
