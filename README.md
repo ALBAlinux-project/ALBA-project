@@ -7,7 +7,8 @@ developed by a Japanese student.
 
 ALBA Linux 1.0 SOL ISO:　[https://archive.org/details/alba-project-1-re]
 
-
+blog/ブログ
+https://sites.google.com/view/albalinuxproject-blog
 ALBA Linuxは日本の学生が開発した、Linux Mint LTSベースのLinuxディストリビューションです。
 
 ## Features / 特徴
