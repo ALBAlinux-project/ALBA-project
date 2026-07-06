@@ -41,9 +41,6 @@ GNU General Public License v3.0
 
 ALBA 1.0 sol is currently available. / 現在ALBA1.0 solが公開中です
 
-We plan to release the ALBA desktop environment at a later date.　/　後にALBA desktop enveriomentをリリースする予定です
-
-https://github.com/ALBAlinux-project/ALBAlinux-project-lite　こっちも見て　/ https://github.com/ALBAlinux-project/ALBAlinux-project-lite　Look here too
-2026 ALBAproject
+We plan to release the ALBA desktop environment at a later date.　/　後にforest desktop enveriomentをリリースする予定です
 
 
